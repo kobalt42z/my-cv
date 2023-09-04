@@ -1,7 +1,7 @@
 
 import { FirstName, HeaderContainer, NameTitle, ProffesionTitle, TitlesConrtainer, ProfilePicture, ImgContainer, Titles } from './header.style'
 import { useTranslation } from 'react-i18next'
-import profile from '../../../assets/profile.png'
+import profile from '../../../assets/profile.jpg'
 
 const Header = () => {
   const { t } = useTranslation()

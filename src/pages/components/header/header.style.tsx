@@ -23,8 +23,8 @@ export const NameTitle = styled.h1`
 `
 export const FirstName = styled.span`
     font-weight: 500;
-    padding-right:20px;
-    padding-left:20px;
+    padding-right:1vh;
+    padding-left:1vh;
 `
 
 export const ProffesionTitle = styled.h2`
@@ -39,7 +39,8 @@ border: white 5px solid;
 top: 150px;
 position: relative;
 width: 180px;
-
+height: 180px;
+background-size: contain;
 
 `
 export const ImgContainer = styled.div`
