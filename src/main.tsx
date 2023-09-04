@@ -4,5 +4,5 @@ import './index.css'
 import './i18next/init.tsx';
 ReactDOM.createRoot(document.getElementById('root')!).render(
 
-  <App />
+  <App  />
 )

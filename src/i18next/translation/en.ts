@@ -11,7 +11,7 @@ export const en: ResourceLanguage = {
         "experianceTitle": "experience",
         "positionTitle1": "Private Fullstack Fundamentals Tutor",
         "positionContent1":
-            "In my professional journey, I provided private tutoring services, specializing in teaching full-stack fundamentals. I worked with individuals who wanted to enhance their knowledge of web development at a medium level. My responsibilities included tailoring lesson plans to meet each student's unique learning style, ensuring a comprehensive understanding of core concepts such as HTML, CSS, JavaScript, and essential web development principles.",
+            "I provided private tutoring services, specializing in teaching full-stack fundamentals. I worked with individuals who wanted to enhance their knowledge of web development at a medium level. My responsibilities included tailoring lesson plans to meet each student's unique learning style, ensuring a comprehensive understanding of core concepts such as HTML, CSS, JavaScript, and essential web development principles.",
         "positionTitle2": "High School Web Fundamentals Instructor",
         "positionContent2":
             "I had the privilege of teaching web fundamentals to a group of 16-year-old boys at my former high school. I designed and delivered engaging lessons specifically designed for high school students, covering foundational topics like HTML, CSS, JavaScript, and introductory web development concepts. This opportunity allowed me to connect with and inspire young minds in a familiar environment, witnessing their growth and enthusiasm as they embarked on their coding journeys. It reinforced my belief in the transformative power of education.",

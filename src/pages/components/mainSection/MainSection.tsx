@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BigIcon, BigIconDown, ContactItem, ContactList, IntersetsLine, IntersetsList, LeftSection, Main, RightSection, Skill, SkillsList, Statment, StatmentContent, StatmentLeft, StatmentParagraph } from './MainSection.style'
 import { Icon } from '@iconify/react';
 import { A, Hr, ProgressBar, ProgressBarContainer, Span, Title } from '../main/main.style';
@@ -9,7 +9,7 @@ const MainSection = () => {
         <Main>
             <LeftSection>
                 <div>
-                    <Title $position='center'>Contact</Title>
+                    <Title $position='center'>{t("contactTitle")}</Title>
                     <Hr />
 
                     <ContactList>
@@ -36,10 +36,10 @@ const MainSection = () => {
                     </ContactList>
                 </div>
                 <div>
-                    <Title $position='center'>skills</Title>
+                    <Title $position='center'>{t("skillsTitle")}</Title>
                     <Hr />
 
-                    <SkillsList>
+                    <SkillsList dir='ltr'>
                         <Skill>
                             <Icon icon="vscode-icons:file-type-js-official" height={20} />
                             <Span>javascript</Span>
@@ -110,10 +110,17 @@ const MainSection = () => {
                                 <ProgressBar $val={80}></ProgressBar>
                             </ProgressBarContainer>
                         </Skill>
+                        <Skill>
+                            <Icon icon="vscode-icons:file-type-sql" height={20} />
+                            <Span>SQL</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={60}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
                     </SkillsList>
                 </div>
                 <div>
-                    <Title $position='center'>intersts</Title>
+                    <Title $position='center'>{t("interestTitle")}</Title>
                     <Hr />
 
                     <IntersetsList>

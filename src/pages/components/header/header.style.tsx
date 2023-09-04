@@ -24,6 +24,7 @@ export const NameTitle = styled.h1`
 export const FirstName = styled.span`
     font-weight: 500;
     padding-right:20px;
+    padding-left:20px;
 `
 
 export const ProffesionTitle = styled.h2`
