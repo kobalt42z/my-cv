@@ -7,7 +7,7 @@ export const en: ResourceLanguage = {
         "profession": "full stack developer",
         "statementTitle": "statment",
         "statementContent":
-            "A determined 20-year-old hailing from Marseille,France , living in Jerusalem about 17 years , I've completed 12 years of schooling and chosen to serve in specialized tech units during my military service. With a strong dedication to this profession and a burning passion for technology, I've dedicated 1.5 years to intensive full-stack application development studies at Ort Syngalovski. I'm driven to learn and practice every day, recognizing that there's always more to explore and improve in the dynamic field of development.",
+            "A determined 20-year-old hailing from Marseille France, living in Jerusalem about 17 years, I've completed 12 years of schooling and chosen to serve in specialized tech units during my military service. With a strong dedication to this profession and a burning passion for technology, I've dedicated 1.5 years to intensive full-stack application development studies at Ort Syngalovski. I'm driven to learn and practice every day, recognizing that there's always more to explore and improve in the dynamic field of development.",
         "experianceTitle": "experience",
         "positionTitle1": "Private Fullstack Fundamentals Tutor",
         "positionContent1":

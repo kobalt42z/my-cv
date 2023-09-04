@@ -12,7 +12,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
     text-align: start;
-    width: 70%;
+    width: 75%;
     text-transform: capitalize;
 
 `
@@ -42,7 +42,7 @@ width: 180px;
 
 `
 export const ImgContainer = styled.div`
-    width: 20%;
+    width: 25%;
     display: flex;
     justify-content: center;
 `

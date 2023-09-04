@@ -3,4 +3,8 @@
     --secondary-color: #D0D0D0;
     --white-color: #F2F2F4;
     font-family: 'Open Sans', sans-serif;
+    
+}
+body{
+    background: #A5A5A5;
 }
