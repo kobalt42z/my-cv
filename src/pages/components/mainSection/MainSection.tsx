@@ -97,6 +97,35 @@ const MainSection = () => {
                             </ProgressBarContainer>
                         </Skill>
                         <Skill>
+                            <Icon icon="devicon:trpc" height={20} />
+                            <Span>trpc</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={50}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                        <Skill>
+                            <Icon icon="logos:aws-s3" height={20} />
+                            <Span>AWS s3</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={40}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                        <Skill>
+                            <Icon icon="skill-icons:redux" height={20} />
+                            <Span>redux TK</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={90}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                     
+                        <Skill>
+                            <Icon icon="logos:firebase" height={20} />
+                            <Span>firebase</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={60}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                        <Skill>
                             <Icon icon="logos:adonisjs-icon" height={20} />
                             <Span>adonisJs</Span>
                             <ProgressBarContainer>
@@ -115,6 +144,20 @@ const MainSection = () => {
                             <Span>SQL</Span>
                             <ProgressBarContainer>
                                 <ProgressBar $val={60}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                        <Skill>
+                            <Icon icon="twemoji:flag-france" height={20} />
+                            <Span>french</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={98}></ProgressBar>
+                            </ProgressBarContainer>
+                        </Skill>
+                        <Skill>
+                            <Icon icon="twemoji:flag-us-outlying-islands" height={20} />
+                            <Span>english</Span>
+                            <ProgressBarContainer>
+                                <ProgressBar $val={50}></ProgressBar>
                             </ProgressBarContainer>
                         </Skill>
                     </SkillsList>
